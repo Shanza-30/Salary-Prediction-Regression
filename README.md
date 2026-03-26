@@ -1,6 +1,6 @@
 # 💼 Salary Prediction using Linear Regression
 
-This project predicts employee salaries based on their **years of experience** and **test scores** using **Linear Regression**. It demonstrates both **single-feature** and **multi-feature** regression approaches, compares their performance, and saves the best-performing model for future predictions.
+This project task 1 syntecxhub predicts employee salaries based on their **years of experience** and **test scores** using **Linear Regression**. It demonstrates both **single-feature** and **multi-feature** regression approaches, compares their performance, and saves the best-performing model for future predictions.
 
 
 ## 🚀 Project Highlights
